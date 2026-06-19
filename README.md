@@ -1,5 +1,8 @@
 # 🪐 Nexus
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge)](https://future-fs-02-gamma-two.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/harshita7126/FUTURE_FS_02)
+
 > **Future Interns** • Full Stack Web Development Fellowship  
 > **Track Assignment ID:** `FUTURE_FS_02`  
 > **Corporate Intern ID (CIN ID):** `FIT/MAY26/FS16867`
@@ -7,6 +10,14 @@
 Nexus is an enterprise-grade multi-tenant software workspace engineered for high-velocity customer pipelines, financial revenue forecasting, and transactional lifecycle tracking.
 
 Built with a premium dark-mode glassmorphic interface inspired by platforms like Linear, Notion, and Attio, Nexus couples a responsive React single-page application engine with a production cloud infrastructure layer managed via Supabase.
+
+---
+
+## 🎯 Project Overview
+
+Nexus is a full-stack Customer Relationship Management (CRM) platform designed to streamline lead acquisition, customer management, sales pipeline tracking, task coordination, and revenue forecasting within a unified workspace.
+
+The application leverages React and Supabase to provide a secure multi-tenant architecture where each user operates within an isolated workspace protected by PostgreSQL Row Level Security (RLS). Through interactive dashboards, analytics, Kanban-based pipeline management, and real-time database synchronization, Nexus delivers a modern sales operations experience suitable for startups, agencies, and growing businesses.
 
 ---
 
@@ -31,7 +42,7 @@ Built with a premium dark-mode glassmorphic interface inspired by platforms like
 
 | Deployment Vector | Production Endpoint URL | System Operational Status |
 | :--- | :--- | :--- |
-| **Vercel Edge Network** | Coming Soon | 🟡 DEPLOYMENT PENDING |
+| **Vercel Edge Network** | [Live Demo](https://future-fs-02-gamma-two.vercel.app) | 🟢 ONLINE / STABLE |
 
 ---
 
@@ -116,16 +127,17 @@ Nexus separates itself from basic CRUD projects by transitioning data management
 The application has been successfully compiled and verified for production deployment.
 
 ```bash
-$ npm run build
-
-Build Status: PASS
-
-✓ 2387 modules transformed.
-✓ dist/index.html                     0.45 kB
-✓ dist/assets/index-Bf8HjQ2L.js     918.50 kB
-✓ dist/assets/index.css              38.60 kB
-✓ built in 984ms
+npm run build
 ```
+
+## ✅ Production Status
+
+- Application successfully built for production
+- Deployed on Vercel Edge Network
+- Supabase backend connected
+- PostgreSQL database operational
+- Authentication verified
+- Multi-tenant RLS policies active
 
 ## ⚙️ Local Development Setup
 
