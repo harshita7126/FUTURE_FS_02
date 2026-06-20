@@ -5,7 +5,7 @@
 
 > **Future Interns** • Full Stack Web Development Fellowship  
 > **Track Assignment ID:** `FUTURE_FS_02`  
-> **Corporate Intern ID (CIN ID):** `FIT/MAY26/FS16867`
+> **CIN ID:** `FIT/MAY26/FS16867`
 
 Nexus is an enterprise-grade multi-tenant software workspace engineered for high-velocity customer pipelines, financial revenue forecasting, and transactional lifecycle tracking.
 
@@ -168,3 +168,20 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 Future Interns – Full Stack Web Development Fellowship  
 
 🔗 **GitHub**: [harshita7126](https://github.com/harshita7126)
+
+---
+
+## 📜 Academic & Internship Declaration
+
+This project was developed as part of the Future Interns Full Stack Web Development Fellowship Program.
+
+- **Intern Name:** LABBA HARSHITA
+- **Internship Track:** Full Stack Web Development (FS)
+- **Assignment ID:** FUTURE_FS_02
+- **Internship Duration:** 22/05/2026 – 22/06/2026
+
+---
+
+## 📄 License
+
+This project was developed for educational and internship purposes under the Future Interns Full Stack Web Development Fellowship Program.
